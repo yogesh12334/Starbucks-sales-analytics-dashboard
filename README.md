@@ -60,7 +60,7 @@ The following data quality checks were performed using SQL:
 
 ## 📸 Dashboard Preview
 
-![Starbucks Dashboard](Images/dashboard.png)
+![Starbucks Dashboard](Starbucks/Images/dashboard.png)
 
 ---
 
